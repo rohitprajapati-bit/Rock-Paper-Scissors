@@ -4,4 +4,4 @@ Welcome to the Multi-Game Collection repository! This collection features a vari
 <br/>
 
 1. Tic-Tac-Toe
-2. Rock-Paper-Scissors
+2. Rock-Paper-Scissors 
