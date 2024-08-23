@@ -1,7 +1,6 @@
-## JavaScript | HTML | CSS 
-
-
 ## Rock-Paper-Scissors 
+
+## JavaScript | HTML | CSS 
 
 ## Features:
 # Classic Gameplay:
@@ -16,11 +15,18 @@ The game keeps track of the player's and computer's scores, displaying them afte
 The game is optimized for both desktop and mobile devices.
 
 ## How to Play:
-Choose your move by clicking on the "Rock," "Paper," or "Scissors" button.
-The computer will then randomly select its move.
-The game will compare the two moves and determine the winner based on the rules:
-Rock beats Scissors.
-Scissors beat Paper.
-Paper beats Rock.
-The score is updated after each round, and the result is displayed.
-Continue playing to see who reaches the highest score.
+1. Choose your move by clicking on the "Rock," "Paper," or "Scissors" button.
+2. The computer will then randomly select its move.
+3. The game will compare the two moves and determine the winner based on the rules:
+4. Rock beats Scissors.
+5. Scissors beat Paper.
+6. Paper beats Rock.
+7. The score is updated after each round, and the result is displayed.
+8. Continue playing to see who reaches the highest score.
+
+ # Web Recording
+
+
+
+
+# Web Screenshot
