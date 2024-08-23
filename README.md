@@ -27,6 +27,12 @@ The game is optimized for both desktop and mobile devices.
  # Web Recording
 
 
+https://github.com/user-attachments/assets/01520a75-7a0e-4148-b1ac-9ebf2184d932
 
 
 # Web Screenshot
+![new](https://github.com/user-attachments/assets/e9cf247d-3a87-43cf-ad28-7ad722b554db)
+
+
+
+
